@@ -1,5 +1,5 @@
 # Teaching-load
-Программа для расчета количества часов работы для учителей.
+Программа для расчета количества часов работы преподавателей.
 
 ![image](https://user-images.githubusercontent.com/54627640/195189599-5180c04c-a76a-44b0-97eb-94356e0683f2.png)
 ![image](https://user-images.githubusercontent.com/54627640/195189608-a5b80192-6238-4624-b55e-ab80b90c1db8.png)
